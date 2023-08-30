@@ -1,0 +1,31 @@
+00 8c 8d ae af be bf fb fc
+
+\x00\x8c\xae\xbe\xfb
+
+
+00 8c 8d ae af be bf fb fc
+
+
+\x00\x8c\x8d\xae\xaf\xbe\xbf\xfb\xfc
+
+------------
+\x00\x8c\x8d\xae\xaf\xbe\xbf\xfb\xfc
+
+8c
+ae
+
+be
+
+fb
+
+
+
+Return addresses
+0x625011bb
+0x625011c7
+0x625011d3
+0x625011df
+0x625011eb
+0x625011f7
+0x62501203
+0x62501205
